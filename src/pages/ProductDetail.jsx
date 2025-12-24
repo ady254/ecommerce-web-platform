@@ -2,7 +2,7 @@ import { useParams, Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { ShoppingBag, Package, ArrowLeft, ShieldCheck, Truck, RotateCcw, CheckCircle, Star } from "lucide-react";
 import { products } from "../data/products";
-import { useCart } from "../context/CartContext";
+import { useCart } from "../context/cartcontext";
 
 function ProductDetail() {
   const { id } = useParams();
