@@ -87,8 +87,7 @@ e-commerce flows and backend-ready architecture.
 
 ---
 ## 🌐 Live Demo
-🔗 https://your-live-link.vercel.app  
-*(Replace with your deployed URL)*
+🔗 https://ecommerce-web-platform.vercel.app/
 
 ## ▶️ Run Locally
 
